@@ -1,0 +1,10 @@
+tkinter
+pyttsx3
+spacy
+pyautogui
+wikipedia
+speechrecognition
+matplotlib
+wordcloud
+numpy
+pillow
